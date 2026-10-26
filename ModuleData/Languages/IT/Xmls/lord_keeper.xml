@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<base type="string">
+  <tags>
+    <tag language="Italiano" />
+  </tags>
+  <strings>
+    <string id="lord_keeper_settings_name" text="Custode dei lord" />
+    <string id="lord_keeper_settings_group_lords" text="Lord catturati" />
+    <string id="lord_keeper_settings_lords_party" text="Nel tuo gruppo" />
+    <string id="lord_keeper_settings_lords_clan_parties" text="Nei gruppi del tuo clan" />
+    <string id="lord_keeper_settings_lords_fiefs" text="Nelle città e nei castelli del tuo clan" />
+    <string id="lord_keeper_settings_lords_kingdom" text="Presso gli altri clan del tuo regno" />
+    <string id="lord_keeper_settings_lords_hint" text="Quota della probabilità di fuga giornaliera originale dei lord catturati che resta valida. 0% = non fuggono mai, 100% = gioco base." />
+    <string id="lord_keeper_settings_group_messages" text="Messaggi" />
+    <string id="lord_keeper_settings_show_caught_name" text="Mostra i tentativi di fuga sventati" />
+    <string id="lord_keeper_settings_show_caught_hint" text="Mostra un messaggio quando un lord tenta di fuggire da te o dal tuo clan, ma viene catturato grazie a questa mod." />
+    <string id="lord_keeper_escape_caught" text="{HERO}: tentativo di fuga sventato." />
+    <string id="lord_keeper_settings_group_over" text="Prigionieri oltre il limite del gruppo" />
+    <string id="lord_keeper_settings_over_party" text="Il tuo gruppo" />
+    <string id="lord_keeper_settings_over_clan_parties" text="Gruppi del tuo clan" />
+    <string id="lord_keeper_settings_over_hint" text="Quota della probabilità di fuga oraria originale dei prigionieri oltre il limite di prigionieri del gruppo che resta valida. 0% = non fuggono mai, 100% = gioco base." />
+  </strings>
+</base>

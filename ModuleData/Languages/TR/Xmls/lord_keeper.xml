@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<base type="string">
+  <tags>
+    <tag language="Türkçe" />
+  </tags>
+  <strings>
+    <string id="lord_keeper_settings_name" text="Lord Gardiyanı" />
+    <string id="lord_keeper_settings_group_lords" text="Esir lordlar" />
+    <string id="lord_keeper_settings_lords_party" text="Partinizde" />
+    <string id="lord_keeper_settings_lords_clan_parties" text="Klanınızın partilerinde" />
+    <string id="lord_keeper_settings_lords_fiefs" text="Klanınızın kasaba ve kalelerinde" />
+    <string id="lord_keeper_settings_lords_kingdom" text="Krallığınızın diğer klanlarında" />
+    <string id="lord_keeper_settings_lords_hint" text="Esir lordların orijinal günlük kaçma şansının geçerli kalan oranı. %0 = asla kaçmazlar, %100 = orijinal oyun." />
+    <string id="lord_keeper_settings_group_messages" text="Mesajlar" />
+    <string id="lord_keeper_settings_show_caught_name" text="Önlenen kaçış girişimlerini göster" />
+    <string id="lord_keeper_settings_show_caught_hint" text="Bir lord sizden veya klanınızdan kaçmaya çalışıp bu mod sayesinde yakalandığında mesaj gösterir." />
+    <string id="lord_keeper_escape_caught" text="{HERO} kaçmaya çalıştı ama yakalandı." />
+    <string id="lord_keeper_settings_group_over" text="Parti sınırını aşan esirler" />
+    <string id="lord_keeper_settings_over_party" text="Partiniz" />
+    <string id="lord_keeper_settings_over_clan_parties" text="Klanınızın partileri" />
+    <string id="lord_keeper_settings_over_hint" text="Partinin esir sınırını aşan esirlerin orijinal saatlik kaçma şansının geçerli kalan oranı. %0 = asla kaçmazlar, %100 = orijinal oyun." />
+  </strings>
+</base>

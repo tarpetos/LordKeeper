@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<base type="string">
+  <tags>
+    <tag language="한국어" />
+  </tags>
+  <strings>
+    <string id="lord_keeper_settings_name" text="영주 간수" />
+    <string id="lord_keeper_settings_group_lords" text="포로가 된 영주" />
+    <string id="lord_keeper_settings_lords_party" text="당신의 부대에서" />
+    <string id="lord_keeper_settings_lords_clan_parties" text="당신 가문의 부대에서" />
+    <string id="lord_keeper_settings_lords_fiefs" text="당신 가문의 도시와 성에서" />
+    <string id="lord_keeper_settings_lords_kingdom" text="당신 왕국의 다른 가문에서" />
+    <string id="lord_keeper_settings_lords_hint" text="포로가 된 영주의 기본 일일 탈출 확률 중 계속 적용되는 비율입니다. 0% = 절대 탈출하지 않음, 100% = 기본값." />
+    <string id="lord_keeper_settings_group_messages" text="메시지" />
+    <string id="lord_keeper_settings_show_caught_name" text="저지된 탈출 시도 표시" />
+    <string id="lord_keeper_settings_show_caught_hint" text="영주가 당신이나 당신의 가문에서 탈출하려다 이 모드 덕분에 붙잡히면 메시지를 표시합니다." />
+    <string id="lord_keeper_escape_caught" text="{HERO}이(가) 탈출을 시도했지만 붙잡혔습니다." />
+    <string id="lord_keeper_settings_group_over" text="부대 한도를 넘은 포로" />
+    <string id="lord_keeper_settings_over_party" text="당신의 부대" />
+    <string id="lord_keeper_settings_over_clan_parties" text="당신 가문의 부대" />
+    <string id="lord_keeper_settings_over_hint" text="부대의 포로 한도를 넘은 포로의 기본 시간당 탈출 확률 중 계속 적용되는 비율입니다. 0% = 절대 탈출하지 않음, 100% = 기본값." />
+  </strings>
+</base>

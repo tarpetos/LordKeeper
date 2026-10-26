@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<base type="string">
+  <tags>
+    <tag language="日本語" />
+  </tags>
+  <strings>
+    <string id="lord_keeper_settings_name" text="領主の看守" />
+    <string id="lord_keeper_settings_group_lords" text="捕らえた領主" />
+    <string id="lord_keeper_settings_lords_party" text="あなたの部隊内" />
+    <string id="lord_keeper_settings_lords_clan_parties" text="あなたのクランの部隊内" />
+    <string id="lord_keeper_settings_lords_fiefs" text="あなたのクランの町や城" />
+    <string id="lord_keeper_settings_lords_kingdom" text="王国の他のクラン" />
+    <string id="lord_keeper_settings_lords_hint" text="捕らえた領主のバニラの1日あたり脱走確率のうち、適用される割合。0% = 脱走しない、100% = バニラ。" />
+    <string id="lord_keeper_settings_group_messages" text="メッセージ" />
+    <string id="lord_keeper_settings_show_caught_name" text="阻止した脱走の試みを表示" />
+    <string id="lord_keeper_settings_show_caught_hint" text="領主があなたやあなたのクランから脱走しようとして、このMODによって捕まったときにメッセージを表示します。" />
+    <string id="lord_keeper_escape_caught" text="{HERO}は脱走を試みたが、捕まった。" />
+    <string id="lord_keeper_settings_group_over" text="部隊の上限を超えた捕虜" />
+    <string id="lord_keeper_settings_over_party" text="あなたの部隊" />
+    <string id="lord_keeper_settings_over_clan_parties" text="あなたのクランの部隊" />
+    <string id="lord_keeper_settings_over_hint" text="部隊の捕虜上限を超えた捕虜のバニラの1時間あたり脱走確率のうち、適用される割合。0% = 脱走しない、100% = バニラ。" />
+  </strings>
+</base>

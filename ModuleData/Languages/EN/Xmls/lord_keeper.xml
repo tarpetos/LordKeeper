@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<base type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+    <string id="lord_keeper_settings_name" text="Lord Keeper" />
+    <string id="lord_keeper_settings_group_lords" text="Captured lords" />
+    <string id="lord_keeper_settings_lords_party" text="In your party" />
+    <string id="lord_keeper_settings_lords_clan_parties" text="In your clan's parties" />
+    <string id="lord_keeper_settings_lords_fiefs" text="In your clan's towns and castles" />
+    <string id="lord_keeper_settings_lords_kingdom" text="With other clans of your kingdom" />
+    <string id="lord_keeper_settings_lords_hint" text="Share of the vanilla daily escape chance of captured lords that still applies. 0% = they never escape, 100% = vanilla." />
+    <string id="lord_keeper_settings_group_messages" text="Messages" />
+    <string id="lord_keeper_settings_show_caught_name" text="Show caught escape attempts" />
+    <string id="lord_keeper_settings_show_caught_hint" text="Show a message when a lord tries to escape from you or your clan but is caught thanks to this mod." />
+    <string id="lord_keeper_escape_caught" text="{HERO} tried to escape, but was caught." />
+    <string id="lord_keeper_settings_group_over" text="Prisoners over the party limit" />
+    <string id="lord_keeper_settings_over_party" text="Your party" />
+    <string id="lord_keeper_settings_over_clan_parties" text="Your clan's parties" />
+    <string id="lord_keeper_settings_over_hint" text="Share of the vanilla hourly escape chance of prisoners held above the party's prisoner limit that still applies. 0% = they never escape, 100% = vanilla." />
+  </strings>
+</base>

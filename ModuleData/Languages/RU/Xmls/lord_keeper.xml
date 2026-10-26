@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<base type="string">
+  <tags>
+    <tag language="Русский" />
+  </tags>
+  <strings>
+    <string id="lord_keeper_settings_name" text="Тюремщик лордов" />
+    <string id="lord_keeper_settings_group_lords" text="Пленные лорды" />
+    <string id="lord_keeper_settings_lords_party" text="В вашем отряде" />
+    <string id="lord_keeper_settings_lords_clan_parties" text="В отрядах вашего клана" />
+    <string id="lord_keeper_settings_lords_fiefs" text="В городах и замках вашего клана" />
+    <string id="lord_keeper_settings_lords_kingdom" text="У других кланов вашего королевства" />
+    <string id="lord_keeper_settings_lords_hint" text="Доля ванильного ежедневного шанса побега пленных лордов, которая продолжает действовать. 0% = никогда не сбегают, 100% = как в ванилле." />
+    <string id="lord_keeper_settings_group_messages" text="Сообщения" />
+    <string id="lord_keeper_settings_show_caught_name" text="Показывать сорванные попытки побега" />
+    <string id="lord_keeper_settings_show_caught_hint" text="Показывает сообщение, когда лорд пытается сбежать от вас или вашего клана, но его ловят благодаря этому моду." />
+    <string id="lord_keeper_escape_caught" text="{HERO}: попытка побега сорвана." />
+    <string id="lord_keeper_settings_group_over" text="Пленники сверх лимита отряда" />
+    <string id="lord_keeper_settings_over_party" text="Ваш отряд" />
+    <string id="lord_keeper_settings_over_clan_parties" text="Отряды вашего клана" />
+    <string id="lord_keeper_settings_over_hint" text="Доля ванильного ежечасного шанса побега пленников сверх лимита пленных отряда, которая продолжает действовать. 0% = никогда не сбегают, 100% = как в ванилле." />
+  </strings>
+</base>

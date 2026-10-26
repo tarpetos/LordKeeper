@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<base type="string">
+  <tags>
+    <tag language="简体中文" />
+  </tags>
+  <strings>
+    <string id="lord_keeper_settings_name" text="领主看守" />
+    <string id="lord_keeper_settings_group_lords" text="被俘领主" />
+    <string id="lord_keeper_settings_lords_party" text="在你的部队中" />
+    <string id="lord_keeper_settings_lords_clan_parties" text="在你家族的部队中" />
+    <string id="lord_keeper_settings_lords_fiefs" text="在你家族的城镇和城堡中" />
+    <string id="lord_keeper_settings_lords_kingdom" text="在你王国的其他家族中" />
+    <string id="lord_keeper_settings_lords_hint" text="被俘领主每日逃跑几率相对原版仍然生效的比例。0% = 永不逃跑，100% = 原版。" />
+    <string id="lord_keeper_settings_group_messages" text="消息" />
+    <string id="lord_keeper_settings_show_caught_name" text="显示被阻止的逃跑尝试" />
+    <string id="lord_keeper_settings_show_caught_hint" text="当领主试图从你或你的家族逃跑、但因本模组而被抓回时显示消息。" />
+    <string id="lord_keeper_escape_caught" text="{HERO}试图逃跑，但被抓住了。" />
+    <string id="lord_keeper_settings_group_over" text="超出部队上限的俘虏" />
+    <string id="lord_keeper_settings_over_party" text="你的部队" />
+    <string id="lord_keeper_settings_over_clan_parties" text="你家族的部队" />
+    <string id="lord_keeper_settings_over_hint" text="超出部队俘虏上限的俘虏每小时逃跑几率相对原版仍然生效的比例。0% = 永不逃跑，100% = 原版。" />
+  </strings>
+</base>

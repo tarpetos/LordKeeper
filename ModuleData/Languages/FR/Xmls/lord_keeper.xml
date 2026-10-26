@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<base type="string">
+  <tags>
+    <tag language="Français" />
+  </tags>
+  <strings>
+    <string id="lord_keeper_settings_name" text="Gardien des seigneurs" />
+    <string id="lord_keeper_settings_group_lords" text="Seigneurs capturés" />
+    <string id="lord_keeper_settings_lords_party" text="Dans votre groupe" />
+    <string id="lord_keeper_settings_lords_clan_parties" text="Dans les groupes de votre clan" />
+    <string id="lord_keeper_settings_lords_fiefs" text="Dans les villes et châteaux de votre clan" />
+    <string id="lord_keeper_settings_lords_kingdom" text="Chez les autres clans de votre royaume" />
+    <string id="lord_keeper_settings_lords_hint" text="Part de la chance d'évasion quotidienne d'origine des seigneurs capturés qui s'applique encore. 0 % = ils ne s'évadent jamais, 100 % = jeu de base." />
+    <string id="lord_keeper_settings_group_messages" text="Messages" />
+    <string id="lord_keeper_settings_show_caught_name" text="Afficher les tentatives d'évasion déjouées" />
+    <string id="lord_keeper_settings_show_caught_hint" text="Affiche un message lorsqu'un seigneur tente de s'évader de chez vous ou de votre clan, mais est rattrapé grâce à ce mod." />
+    <string id="lord_keeper_escape_caught" text="{HERO} : tentative d'évasion déjouée." />
+    <string id="lord_keeper_settings_group_over" text="Prisonniers au-delà de la limite du groupe" />
+    <string id="lord_keeper_settings_over_party" text="Votre groupe" />
+    <string id="lord_keeper_settings_over_clan_parties" text="Groupes de votre clan" />
+    <string id="lord_keeper_settings_over_hint" text="Part de la chance d'évasion horaire d'origine des prisonniers au-delà de la limite de prisonniers du groupe qui s'applique encore. 0 % = ils ne s'évadent jamais, 100 % = jeu de base." />
+  </strings>
+</base>

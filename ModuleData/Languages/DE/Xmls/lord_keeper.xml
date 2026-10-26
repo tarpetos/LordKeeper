@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<base type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="lord_keeper_settings_name" text="Lordwächter" />
+    <string id="lord_keeper_settings_group_lords" text="Gefangene Lords" />
+    <string id="lord_keeper_settings_lords_party" text="In deiner Gruppe" />
+    <string id="lord_keeper_settings_lords_clan_parties" text="In den Gruppen deines Clans" />
+    <string id="lord_keeper_settings_lords_fiefs" text="In den Städten und Burgen deines Clans" />
+    <string id="lord_keeper_settings_lords_kingdom" text="Bei anderen Clans deines Königreichs" />
+    <string id="lord_keeper_settings_lords_hint" text="Anteil der täglichen Vanilla-Fluchtchance gefangener Lords, der weiterhin gilt. 0 % = sie fliehen nie, 100 % = Vanilla." />
+    <string id="lord_keeper_settings_group_messages" text="Nachrichten" />
+    <string id="lord_keeper_settings_show_caught_name" text="Vereitelte Fluchtversuche anzeigen" />
+    <string id="lord_keeper_settings_show_caught_hint" text="Zeigt eine Nachricht, wenn ein Lord dir oder deinem Clan zu entkommen versucht, dank dieser Mod aber gefasst wird." />
+    <string id="lord_keeper_escape_caught" text="{HERO} hat versucht zu fliehen, wurde aber gefasst." />
+    <string id="lord_keeper_settings_group_over" text="Gefangene über dem Gruppenlimit" />
+    <string id="lord_keeper_settings_over_party" text="Deine Gruppe" />
+    <string id="lord_keeper_settings_over_clan_parties" text="Gruppen deines Clans" />
+    <string id="lord_keeper_settings_over_hint" text="Anteil der stündlichen Vanilla-Fluchtchance für Gefangene über dem Gefangenenlimit der Gruppe, der weiterhin gilt. 0 % = sie fliehen nie, 100 % = Vanilla." />
+  </strings>
+</base>

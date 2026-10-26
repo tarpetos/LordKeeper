@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<base type="string">
+  <tags>
+    <tag language="Polski" />
+  </tags>
+  <strings>
+    <string id="lord_keeper_settings_name" text="Strażnik lordów" />
+    <string id="lord_keeper_settings_group_lords" text="Pojmani lordowie" />
+    <string id="lord_keeper_settings_lords_party" text="W twojej drużynie" />
+    <string id="lord_keeper_settings_lords_clan_parties" text="W drużynach twojego klanu" />
+    <string id="lord_keeper_settings_lords_fiefs" text="W miastach i zamkach twojego klanu" />
+    <string id="lord_keeper_settings_lords_kingdom" text="U innych klanów twojego królestwa" />
+    <string id="lord_keeper_settings_lords_hint" text="Część dziennej szansy na ucieczkę pojmanych lordów z podstawowej gry, która nadal obowiązuje. 0% = nigdy nie uciekają, 100% = gra podstawowa." />
+    <string id="lord_keeper_settings_group_messages" text="Wiadomości" />
+    <string id="lord_keeper_settings_show_caught_name" text="Pokazuj udaremnione próby ucieczki" />
+    <string id="lord_keeper_settings_show_caught_hint" text="Pokazuje wiadomość, gdy lord próbuje uciec tobie lub twojemu klanowi, ale dzięki temu modowi zostaje złapany." />
+    <string id="lord_keeper_escape_caught" text="{HERO}: próba ucieczki udaremniona." />
+    <string id="lord_keeper_settings_group_over" text="Jeńcy ponad limit drużyny" />
+    <string id="lord_keeper_settings_over_party" text="Twoja drużyna" />
+    <string id="lord_keeper_settings_over_clan_parties" text="Drużyny twojego klanu" />
+    <string id="lord_keeper_settings_over_hint" text="Część godzinowej szansy na ucieczkę jeńców ponad limit jeńców drużyny z podstawowej gry, która nadal obowiązuje. 0% = nigdy nie uciekają, 100% = gra podstawowa." />
+  </strings>
+</base>
